@@ -1,0 +1,9 @@
+C:\C#Homework\homework1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\C#Homework\homework1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\C#Homework\homework1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\C#Homework\homework1\WindowsFormsApplication1\obj\Debug\Program2.csprojResolveAssemblyReference.cache
+C:\C#Homework\homework1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\C#Homework\homework1\WindowsFormsApplication1\obj\Debug\Program2.csproj.GenerateResource.Cache
+C:\C#Homework\homework1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\C#Homework\homework1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\C#Homework\homework1\WindowsFormsApplication1\obj\Debug\Program2.Form1.resources

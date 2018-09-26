@@ -1,0 +1,9 @@
+C:\C#Homework\homework2\program1\bin\Debug\program1.exe.config
+C:\C#Homework\homework2\program1\bin\Debug\program1.exe
+C:\C#Homework\homework2\program1\bin\Debug\program1.pdb
+C:\C#Homework\homework2\program1\obj\Debug\program1.csprojResolveAssemblyReference.cache
+C:\C#Homework\homework2\program1\obj\Debug\program1.exe
+C:\C#Homework\homework2\program1\obj\Debug\program1.pdb
+C:\C#Homework\新建文件夹\program1\bin\Debug\program1.exe.config
+C:\C#Homework\新建文件夹\program1\obj\Debug\program1.exe
+C:\C#Homework\新建文件夹\program1\obj\Debug\program1.pdb
